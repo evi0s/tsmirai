@@ -1,0 +1,9 @@
+{
+  "name": "tsmirai",
+  "version": "0.0.1",
+  "description": "A QQ bot written by TypeScript based on Mirai",
+  "main": "index.js",
+  "repository": "https://github.com/evi0s/tsmirai",
+  "author": "evi0s <i@evi0s.com>",
+  "license": "GNU Affero General Public License v3.0"
+}
