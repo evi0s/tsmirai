@@ -1,5 +1,12 @@
 
+# F**k macOS
 .DS_Store
+
+# console jar
 console/content
 console/plugins
 console/mirai-console.jar
+console/device.json
+
+# node_modules
+node_modules
